@@ -1,7 +1,7 @@
 ---
 date: '2025-12-25T13:08:56+01:00'
 title: 'Elindult a partneroldal'
-draft: false
+draft: true
 ---
 
 Helló
