@@ -1,9 +1,8 @@
 ---
-date: '2026-07-16T13:21:56+01:00'
+date: '2026-07-16T01:00:00+01:00'
 title: 'Első üzenet, app hirfolyam tájékoztató'
 draft: false
 ---
-
 
 ## Sziasztok!  
 Elinditottuk ezt az új funkciót a SPIE szerviz mobil alkalmazásban amely célja, hogy közvetlen tájékoztatást tudjunk nektek küldeni anélkül, hogy e-mailben öntenénk azt rátok.
