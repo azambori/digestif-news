@@ -1,5 +1,5 @@
 ---
-date: '2026-07-16T13:08:56+01:00'
+date: '2026-07-16T13:42:00+01:00'
 title: 'Elindult a partneroldal'
 draft: false
 ---
@@ -11,3 +11,4 @@ Elinditottuk ezt az új funkciót a SPIE szerviz mobil alkalmazásban amely cél
 lapvetően olyanra ami az app használathoz kötődik, ha kerül be új funkció akkor azok rövid leirása ide kerül például. Ugyanakkor időnként fogunk küldeni tájékoztatást ha valamiben időszakosan eltérünk a szokásos módszerektől, mint például az év végi zárás amikor a zárási határidők teljesen máshogy vannak mint egy átlagos hónapban.
 
 ui: még Én sem vágom teljesen, hogyan működik ez a felület, tuti lesznek benne hibák, de próbálom azért többnyire jól csinálni :D Ákos
+ 
