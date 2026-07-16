@@ -1,5 +1,5 @@
 ---
-date: '2025-12-25T13:08:56+01:00'
+date: '2026-07-16T13:21:56+01:00'
 title: 'Első üzenet, app hirfolyam tájékoztató'
 draft: false
 ---
